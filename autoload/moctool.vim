@@ -1,3 +1,3 @@
 function! moctool#Execute() abort
-    echomsd 'hello!'
+    echo 'hello!'
 endfunction
