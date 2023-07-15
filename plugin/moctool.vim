@@ -4,4 +4,4 @@ if exists('g:loaded_session')
 endif
 let g:loaded_session = 1
 
-command! EchoHello call moctool#Execute()
+command! MCHexAscii call moctool#HexAscii()
